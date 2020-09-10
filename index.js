@@ -9,7 +9,7 @@ function firebaseInit() {
 
   firebase.initializeApp({
     credential: firebase.credential.cert(serviceAccount),
-    databaseURL: "https://agularfire-44397.firebaseio.com"
+    databaseURL: "https://testdb-4431b.firebaseio.com"
   });
 
   return firebase;
