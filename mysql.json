@@ -1,5 +1,5 @@
 {
-  "host": "localhost",
-  "user": "root",
-  "database": "userinfo"
+  "host": "ls-3b880e7870616615923aa1c3c3d1c9f4c422a580.cobycpcbjex7.ap-south-1.rds.amazonaws.com",
+  "user": "dbusertest",
+  "database": "dbusertest"
 }
